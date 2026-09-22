@@ -1,5 +1,3 @@
-# maxus-in-france
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
