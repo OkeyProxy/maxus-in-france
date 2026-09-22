@@ -7,7 +7,7 @@
 <body>
 <h1>MAXUS face à Ford, Mercedes-Benz et Renault : ce que disent vraiment les chiffres</h1>
 
-<p>Entre la gamme MAXUS (Deliver, eDeliver, eTerron 9, T60 MAX) et celles de Ford, Mercedes-Benz et Renault, difficile de s'y retrouver sans comparer les fiches techniques. On a mis à plat prix, charge utile, autonomie, garantie et réseau — y compris dans les Bouches-du-Rhône et en Auvergne-Rhône-Alpes.</p>
+<p>Entre la gamme <a href="https://www.maxusmotors.fr/">MAXUS</a> (Deliver, eDeliver, eTerron 9, T60 MAX) et celles de Ford, Mercedes-Benz et Renault, difficile de s'y retrouver sans comparer les fiches techniques. On a mis à plat prix, charge utile, autonomie, garantie et réseau — y compris dans les Bouches-du-Rhône et en Auvergne-Rhône-Alpes.</p>
 
 <h2>Pourquoi cette comparaison compte</h2>
 
